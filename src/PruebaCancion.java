@@ -13,6 +13,7 @@ public class PruebaCancion {
 		Cancion terceraCancion = new Cancion("Come Join The Murder", "The White Buffalo & The Forest Rangers", 420, false);
 		Cancion cuartaCancion = new Cancion("Quiero Bailar", "Ivy Queen", 303, true);
 		Cancion quintaCancion = new Cancion("Sensacion del Bloque", "de la Guetto",302,false);
+		Cancion sextaCancion = new Cancion("Aparentemente", "Yaga y Mackie",504,true);
 		
 
 		if (primeraCancion.reproducirCancion()) {
